@@ -2,16 +2,16 @@
 
 
 
-#Currently Done:
+##Currently Done:
 
 Game Layout
 Capture Logic
 Audio
 
-#Almost Done:
+##Almost Done:
 Pathing
 
-#Needs to be Done:
+##Needs to be Done:
 Timer for tiles
 Toggle for special Tile
 Special Tile integration
